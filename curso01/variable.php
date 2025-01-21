@@ -6,7 +6,7 @@
     $gorjetas = 40;
     $diaria = $valorDia + $gorjetas;
 
-    echo "Segunda feira: $diaria\n"
+    echo "Segunda feira: $diaria\n";
 
     $gorjetas = 15;
     $diaria = $valorDia + $gorjetas;
