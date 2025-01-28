@@ -11,3 +11,5 @@ foreach ($arr as $indice => $value) {
     }
     echo "valor do índice : ". $indice . " valor : " . $value . "\n";
 }
+
+?>
